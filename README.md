@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/adithyanpn0" target="blank"><img src="https://img.shields.io/twitter/follow/adithyanpn0?logo=twitter&style=for-the-badge" alt="adithyanpn0" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning** and **Cryptography**
 
 - 📫 How to reach me **adithyanpnair45@gmail.com**
 
