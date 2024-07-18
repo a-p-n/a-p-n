@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-p-n" alt="a-p-n" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/adithyanpn0" target="blank"><img src="https://img.shields.io/twitter/follow/adithyanpn0?logo=twitter&style=for-the-badge" alt="adithyanpn0" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/adithyanpn0" target="blank"><img src="https://img.shields.io/twitter/follow/adithyanpn0?logo=twitter&style=for-the-badge" alt="adithyanpn0" /></a> </p> -->
 
 - 🌱 I’m currently learning **Machine Learning** and **Cryptography**
 
